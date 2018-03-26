@@ -1,2 +1,2 @@
 TEST
-http:
+https://github.com/hongxiangqiu/BASF_nematodes_release/releases/download/gui/vgg16.zip

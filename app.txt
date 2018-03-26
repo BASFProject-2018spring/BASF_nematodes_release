@@ -1,2 +1,2 @@
-TEST
+A20180326
 https://github.com/hongxiangqiu/BASF_nematodes_release/releases/download/gui/app.zip

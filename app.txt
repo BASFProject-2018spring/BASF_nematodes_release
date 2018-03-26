@@ -1,2 +1,2 @@
 TEST
-https://github.com/hongxiangqiu/BASF_nematodes_release/releases/download/gui/pytorch-faster-rcnn.cpu.zip
+https://github.com/hongxiangqiu/BASF_nematodes_release/releases/download/gui/app.zip

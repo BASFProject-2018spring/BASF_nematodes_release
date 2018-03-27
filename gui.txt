@@ -1,2 +1,2 @@
-TEST
+G180326
 https://github.com/hongxiangqiu/BASF_nematodes_release/releases/download/gui/GUI-assembly-0.1.jar

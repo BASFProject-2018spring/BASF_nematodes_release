@@ -1,3 +1,5 @@
+This repo is used for automatic upgrade. The software will check version numbers here.
+
 # Additional files required:
 
 ## GUI

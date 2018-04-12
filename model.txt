@@ -1,2 +1,2 @@
-M20180326
+M20180412
 https://github.com/BASFProject-2018spring/BASF_nematodes_release/releases/download/gui/model.zip

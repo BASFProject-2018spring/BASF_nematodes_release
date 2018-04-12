@@ -1,2 +1,2 @@
-TEST
-https://github.com/BASFProject-2018spring/BASF_nematodes_release/releases/download/gui/GUI-assembly-0.1.jar
+G180412
+https://github.com/BASFProject-2018spring/BASF_nematodes_release/releases/download/gui/app.jar
